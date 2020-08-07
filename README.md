@@ -1,4 +1,4 @@
-# Sistema de Estoque
+# Projeto - Sistema de Estoque
 Sistema de estoque universal personalizado de produtos.
 
 # Objetivo Geral
@@ -19,3 +19,6 @@ Apresentar uma forma de controle de estoque de produtos universais, onde o siste
 
 # Autor
 - Luan Vinícios de Aguiar
+
+# Atualização
+Atualizado em 07 de ago. de 2020.
