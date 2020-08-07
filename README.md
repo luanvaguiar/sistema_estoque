@@ -4,7 +4,7 @@ Sistema de estoque universal personalizado de produtos.
 # Objetivo Geral
 Apresentar uma forma de controle de estoque de produtos universais, onde o sistema também é passível de ser personalizado com a estilização desejada.
 
-# Conetúdo do Sistema de Estoque
+# Contúdo do Sistema de Estoque
 - Funcionalidades: (Ainda não definidas)
 
 # FrameWorks / Ferramentas / Linguagens
