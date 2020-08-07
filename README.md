@@ -7,7 +7,7 @@ Apresentar uma forma de controle de estoque de produtos universais, onde o siste
 # Contúdo do Sistema de Estoque
 - Funcionalidades: (Ainda não definidas)
 
-# FrameWorks / Ferramentas / Linguagens
+# Frameworks / Ferramentas / Linguagens
 - HTML5
 - CSS3
 - PHP
