@@ -6,6 +6,7 @@ class Usuario {
     private $nome_usuario;
     private $email;
     private $senha;
+    private $tipo_usuario;
 
     // Getters
     public function getId_Usuario(){
@@ -24,6 +25,10 @@ class Usuario {
         return $this->senha;
     }
 
+    public function getTipoUsuario(){
+        return $this->tipo_usuario;
+    }
+
     //Setters
     public function setId_Usuario($id){
         $this->id_usuario = $id;
@@ -39,6 +44,32 @@ class Usuario {
 
     public function setSenha($senha){
         $this->senha = $senha;
+    }
+
+    public function setTipoUsuario($tipo_usuario){
+        $this->tipo_usuario = $tipo_usuario;
+    }
+
+    //Métodos do usuário
+    public function adicionarUsuario($usuario){
+        return true;
+    }
+
+    public function getUsuario($id_usuario){
+        $usuario = new Usuario();
+        return $usuario;
+    }
+
+    public function alterarUsuario($usuario){
+        return true;
+    }
+
+    public function excluirUsuario($usuario){
+        return true;
+    }
+
+    public function alterarTipoUsuario($ipo_usuario){
+        return true;
     }
 
 }
